@@ -1,0 +1,5 @@
+
+Faça um programa no processing que:
+- Desenhe o primeiro space invader (primeiro de cima para baixo e da esquerda para a direita).
+- Crie uma variável que controle o tamanho do desenho. Recomendo que seja um lado de um quadrado.
+- Faça que o programa calcule a área total de um space invader desenhado.
